@@ -1,7 +1,5 @@
-# RELATIVITY a slower speed of light  
-
-
-
+# RELATIVITY a slower speed of light
+  
 Curious what might happen if the speed of light is slow?  
 
 Here is a simulation when speed of light is much slower, so slower that it comes down near the walking speed.  
