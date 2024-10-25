@@ -5,7 +5,7 @@ Here is a simulation when speed of light is much slower, so slower that it comes
 
 ## Steps to use it in Unity
 
-Shader graphs are in the shader folder. The RELATIVITY shader is the one at work. If you wanna see only effect of Lorentz transformation and Aberration individually then try LORENTZ and ABERRATION shadergraph. If you wanna try, paste all the folder in unity project menu. Launch the BasicScene in the Scenes folder and play with it.  
+Shader graphs are in the shader folder. The ABERRATION shader is the one at work. If you wanna see only effect of Lorentz transformation try LORENTZ shadergraph. Paste all the folder in unity project menu. Launch the BasicScene in the Scenes folder and play with it.  
 
 
 ![Relativity1](https://github.com/user-attachments/assets/102307c6-ee71-40b5-afed-ac0f7db9018e)
